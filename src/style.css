@@ -1,0 +1,180 @@
+/*NAVBAR AND HEADER PART*/
+.c-navbar
+{
+  box-shadow:2px 2px 5px #ff8221;
+	opacity: 0.9;
+	background:#fff;
+}
+.c-brand
+{
+  font-size:1.7rem;
+  color:#ff8221;
+}
+
+/*SHOWCASE PART*/
+.c-look
+{
+  background-color:#ffb8e9;
+  height:450px;
+  width:450px;
+  border-radius:50%;
+  padding-top:20%;
+}
+.c-margin
+{
+  margin-top:10%;
+}
+.c-sm-margin
+{
+  margin-top:5%;
+}
+.btn-size
+{
+  cursor:pointer;
+  width:28%;
+  font-size:1.3rem;
+}
+
+/*BABY CARE CENTER PART*/
+.c-card-body{
+  background: #f5f5f5;
+  box-shadow: -3px 3px 7px #e0e0e0;
+  border: #ffb8e9 solid 2px;
+}
+.c-py
+{
+  padding:33px 50px 33px 50px;
+}
+
+/*CARD HEIGHT ONLY*/
+.c-card
+{
+  height:250px;
+}
+.c-icon
+{
+  height:75px;
+  width:75px;
+  border-radius:50%;
+  background-color:#ffb8e9;
+}
+.c-small-padding
+{
+  padding-bottom:5%;
+}
+.c-text-size
+{
+  font-size:1.2rem;
+}
+
+/*WHAT PARENT SAYS PART*/
+.c-facebook-icon
+{
+  padding-left:18px !important;
+  border-radius:50%;
+  background-color: blue;
+}
+.c-facebook-icon:hover
+{
+  text-decoration:none;
+}
+.c-twitter-icon
+{
+  padding-left:14px !important;
+  border-radius:50%;
+  background-color:#17a2b8;
+}
+.c-twitter-icon:hover
+{
+  text-decoration: none;
+}
+.c-google-icon
+{
+  padding-left:14px !important;
+  border-radius:50%;
+  background-color:#dc3545;
+}
+.c-google-icon:hover
+{
+  text-decoration: none;
+}
+
+/*GET IN TOUCH PART*/
+
+.c-form-textfield
+{
+  color:#000;
+  font-size:14px;
+  padding:.9rem .7rem;
+  border-radius:0px;
+  border:1.5px solid #bdbdbd;
+}
+.c-padding
+{
+  padding-bottom:15%;
+}
+.c-btn
+{
+  font-size:1.2rem;
+  letter-spacing:2px;
+  border-radius:0px;
+}
+
+/*FOOTER STARTING PART*/
+.bg-black
+{
+  background-color:#080808;
+}
+.text-gray
+{
+  color:gray;
+}
+.c-facebook-footer
+{
+  color:blue !important;
+  font-size:1.3rem;
+}
+.c-twitter-footer
+{
+  color:#17a2b8 !important;
+  font-size:1.3rem;
+}
+.c-wifi-footer
+{
+  color:#ffc107 !important;
+  font-size:1.3rem;
+}
+.c-message-footer
+{
+  color:#dc3545 !important;
+  font-size:1.3rem;
+}
+.c-instagram-footer
+{
+  color:#b405bbf2 !important;
+  font-size:1.3rem;
+}
+.c-up-footer
+{
+  font-size:2rem;
+}
+.c-hover:hover
+{
+  text-decoration:none;
+}
+
+/*FOOTER END PART*/
+.bg-color-footer
+{
+  background-color: #000;
+  letter-spacing:2px;
+}
+.c-footer-link
+{
+  font-size:1rem;
+  color:#ffb8e9;
+}
+.c-footer-link:hover
+{
+  color:#fff;
+}
